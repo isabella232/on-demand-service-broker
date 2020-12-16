@@ -29,9 +29,9 @@ require (
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.2.3
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
 	github.com/onsi/ginkgo v1.14.1
-	github.com/onsi/gomega v1.10.2
+	github.com/onsi/gomega v1.10.4
 	github.com/pborman/uuid v1.2.1
-	github.com/pivotal-cf/brokerapi/v7 v7.4.0
+	github.com/pivotal-cf/brokerapi/v7 v7.5.0
 	github.com/pivotal-cf/on-demand-services-sdk v0.40.1-0.20200916152143-812ef1f3436b
 	github.com/pivotal-cf/paraphernalia v0.0.0-20171027171623-4272315231ce // indirect
 	github.com/pkg/errors v0.9.1
@@ -41,7 +41,6 @@ require (
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00 // indirect
 	github.com/urfave/negroni v1.0.0
 	github.com/xeipuuv/gojsonschema v1.2.0
-	golang.org/x/crypto v0.0.0-20200302210943-78000ba7a073 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 )
 
